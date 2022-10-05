@@ -29,7 +29,6 @@ batch_size = 1
 channel = 3
 nHeight = 32
 nWidth = 32
-pthFile = "./model.pth"
 onnxFile = "./model.onnx"
 trtFile = "./model.plan"
 inferenceImage = "/data/data/cifar100/cali/1.jpg"
